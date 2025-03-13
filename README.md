@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+Ahmad is an adventurous and creative soul with a passion for exploring new ideas and experiences. Whether it's diving into a new hobby, traveling to exciting destinations, or working on innovative projects, he loves pushing boundaries and embracing challenges. With a curious mind and a knack for problem-solving, Ahmad is always looking for ways to grow and make a positive impact. In his free time, he enjoys reading, gaming, and connecting with like-minded individuals. Life is an adventure, and Ahmad is here to make the most of it!
